@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4df1f5ac-c62a-4a4b-97dd-254ccbc76332" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/META-INF/practice01.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo02/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo02/demo01ArrayListStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo02/demo02ArrayListStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo03/demo01StringGet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo03/demo02SubString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo03/demo03StringConvert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo03/demo04StringSplit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo03/demo05StringPractise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo03/demo06StringCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo04/MyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo04/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo04/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo04/demo02StaticMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo04/demo03StaticStudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo04/demo04Static.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo04/demp01StaticField.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cn/demo04/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cn/domo01/Person.java" />
+        <option value="$PROJECT_DIR$/src/cn/domo01/demo01ArrayPerson.java" />
+        <option value="$PROJECT_DIR$/src/cn/domo01/demo02ArrayList.java" />
+        <option value="$PROJECT_DIR$/src/cn/domo01/demo03ArrayListMethod.java" />
+        <option value="$PROJECT_DIR$/src/cn/domo01/demo04ArrayListEach.java" />
+        <option value="$PROJECT_DIR$/src/cn/domo01/demo05ArrayListBasic.java" />
+        <option value="$PROJECT_DIR$/src/cn/domo01/demo05ArrayListRandom.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo02/Student.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo02/demo01ArrayListStudent.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo02/demo02ArrayListStudent.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo03/demo01StringGet.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo03/demo02SubString.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo03/demo03StringConvert.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo03/demo004StringSplit.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo03/demo04StringSplit.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo01/demo03ArrayListMethod.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo03/demo05StringPractise.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo03/demo06StringCount.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo04/Student.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo04/demp01StaticField.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo04/demo02StaticMethod.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo04/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo04/demo03StaticStudent.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo04/Person.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo04/demo04Static.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="840" />
+    <option name="y" value="45" />
+    <option name="width" value="1340" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.demo04Static">
+    <configuration name="demo02StaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.demo04.demo02StaticMethod" />
+      <module name="practice01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.demo04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo03StaticStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.demo04.demo03StaticStudent" />
+      <module name="practice01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.demo04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo04Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.demo04.demo04Static" />
+      <module name="practice01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.demo04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo06StringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.demo03.demo06StringCount" />
+      <module name="practice01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.demo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demp01StaticField" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.demo04.demp01StaticField" />
+      <module name="practice01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.demo04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.demo04Static" />
+        <item itemvalue="Application.demo03StaticStudent" />
+        <item itemvalue="Application.demo02StaticMethod" />
+        <item itemvalue="Application.demp01StaticField" />
+        <item itemvalue="Application.demo06StringCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4df1f5ac-c62a-4a4b-97dd-254ccbc76332" name="Default Changelist" comment="" />
+      <created>1561962450018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561962450018</updated>
+      <workItem from="1561962451494" duration="11138000" />
+      <workItem from="1562028478507" duration="596000" />
+      <workItem from="1562029108035" duration="10369000" />
+      <workItem from="1562043861511" duration="695000" />
+      <workItem from="1562047105232" duration="4502000" />
+      <workItem from="1562064314698" duration="1037000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28337000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24731903" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/cn/demo01/Person.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/demo01/demo01ArrayPerson.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/demo01/demo02ArrayList.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/domo01/demo05ArrayListBasic.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/demo02/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo01/demo05ArrayListRandom.java" />
+    <entry file="jar://C:/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="1496" column="16" selection-start-line="1496" selection-start-column="16" selection-end-line="1496" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo02/demo01ArrayListStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo02/demo02ArrayListStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo03/demo01StringGet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo03/demo02SubString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo03/demo03StringConvert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo01/demo03ArrayListMethod.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/demo01/demo04ArrayListEach.java" />
+    <entry file="file://$PROJECT_DIR$/src/cn/demo03/demo04StringSplit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo03/demo05StringPractise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo03/demo06StringCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo04/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo04/demp01StaticField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo04/demo02StaticMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo04/demo03StaticStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo04/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo04/demo04Static.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo04/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
