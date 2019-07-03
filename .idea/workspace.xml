@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4df1f5ac-c62a-4a4b-97dd-254ccbc76332" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/META-INF/practice01.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo02/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo02/demo01ArrayListStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo02/demo02ArrayListStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo03/demo01StringGet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo03/demo02SubString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo03/demo03StringConvert.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo03/demo04StringSplit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo03/demo05StringPractise.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo03/demo06StringCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo04/MyClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo04/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo04/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo04/demo02StaticMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo04/demo03StaticStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo04/demo04Static.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo04/demp01StaticField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/demo05/demo01Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,16 +16,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/demo04/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/demo05/demo01Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding>
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#167#168#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="304">
+              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -59,6 +39,19 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="yuesx" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -88,6 +81,7 @@
         <option value="$PROJECT_DIR$/src/cn/demo04/demo03StaticStudent.java" />
         <option value="$PROJECT_DIR$/src/cn/demo04/Person.java" />
         <option value="$PROJECT_DIR$/src/cn/demo04/demo04Static.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo05/demo01Arrays.java" />
       </list>
     </option>
   </component>
@@ -97,13 +91,43 @@
     <option name="width" value="1340" />
     <option name="height" value="880" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="practice01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="demo05" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -129,7 +153,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo04Static">
+  <component name="RunManager" selected="Application.demo01Arrays">
+    <configuration name="demo01Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.demo05.demo01Arrays" />
+      <module name="practice01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.demo05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="demo02StaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.demo04.demo02StaticMethod" />
       <module name="practice01" />
@@ -169,19 +206,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo06StringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.demo03.demo06StringCount" />
-      <module name="practice01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.demo03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="demp01StaticField" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.demo04.demp01StaticField" />
       <module name="practice01" />
@@ -197,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo01Arrays" />
         <item itemvalue="Application.demo04Static" />
         <item itemvalue="Application.demo03StaticStudent" />
         <item itemvalue="Application.demo02StaticMethod" />
         <item itemvalue="Application.demp01StaticField" />
-        <item itemvalue="Application.demo06StringCount" />
       </list>
     </recent_temporary>
   </component>
@@ -220,17 +244,27 @@
       <workItem from="1562029108035" duration="10369000" />
       <workItem from="1562043861511" duration="695000" />
       <workItem from="1562047105232" duration="4502000" />
-      <workItem from="1562064314698" duration="1037000" />
+      <workItem from="1562064314698" duration="2170000" />
+      <workItem from="1562114719701" duration="693000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次">
+      <created>1562065389267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562065389267</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28337000" />
+    <option name="totallyTimeSpent" value="30163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24731903" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25067025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -248,7 +282,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -268,6 +302,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="第一次" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/cn/demo01/Person.java" />
@@ -431,6 +467,13 @@
             <element signature="e#121#122#0" expanded="true" />
             <element signature="e#167#168#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo05/demo01Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
