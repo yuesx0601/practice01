@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4df1f5ac-c62a-4a4b-97dd-254ccbc76332" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/demo05/demo01Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/InheritPolymorphic/demo01/Assistant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/InheritPolymorphic/demo01/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/InheritPolymorphic/demo01/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/InheritPolymorphic/demo01/demo01Extends.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo05/demo02MathPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritPolymorphic/demo01/Assistant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritPolymorphic/demo01/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritPolymorphic/demo01/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InheritPolymorphic/demo01/demo01Extends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/demo05/demo02MathPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/practice01/cn/demo05/demo01Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/practice01/cn/demo05/demo01Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/demo05/demo01Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/demo05/demo01Arrays.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +29,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/demo05/demo01Arrays.java">
+        <entry file="file://$PROJECT_DIR$/src/InheritPolymorphic/demo01/demo01Extends.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="171">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -82,6 +93,11 @@
         <option value="$PROJECT_DIR$/src/cn/demo04/Person.java" />
         <option value="$PROJECT_DIR$/src/cn/demo04/demo04Static.java" />
         <option value="$PROJECT_DIR$/src/cn/demo05/demo01Arrays.java" />
+        <option value="$PROJECT_DIR$/src/cn/demo05/demo02MathPractice.java" />
+        <option value="$PROJECT_DIR$/src/InheritPolymorphic/demo01/Employee.java" />
+        <option value="$PROJECT_DIR$/src/InheritPolymorphic/demo01/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/InheritPolymorphic/demo01/Assistant.java" />
+        <option value="$PROJECT_DIR$/src/InheritPolymorphic/demo01/demo01Extends.java" />
       </list>
     </option>
   </component>
@@ -115,14 +131,7 @@
               <item name="practice01" type="b2602c69:ProjectViewProjectNode" />
               <item name="practice01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="demo05" type="462c0819:PsiDirectoryNode" />
+              <item name="InheritPolymorphic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo01Arrays">
+  <component name="RunManager" selected="Application.demo01Extends">
     <configuration name="demo01Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.demo05.demo01Arrays" />
       <module name="practice01" />
@@ -167,12 +176,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo02StaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.demo04.demo02StaticMethod" />
+    <configuration name="demo01Extends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InheritPolymorphic.demo01.demo01Extends" />
       <module name="practice01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.demo04.*" />
+          <option name="PATTERN" value="InheritPolymorphic.demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo02MathPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.demo05.demo02MathPractice" />
+      <module name="practice01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.demo05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,26 +228,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demp01StaticField" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.demo04.demp01StaticField" />
-      <module name="practice01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.demo04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo01Extends" />
+        <item itemvalue="Application.demo02MathPractice" />
         <item itemvalue="Application.demo01Arrays" />
         <item itemvalue="Application.demo04Static" />
         <item itemvalue="Application.demo03StaticStudent" />
-        <item itemvalue="Application.demo02StaticMethod" />
-        <item itemvalue="Application.demp01StaticField" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +254,7 @@
       <workItem from="1562043861511" duration="695000" />
       <workItem from="1562047105232" duration="4502000" />
       <workItem from="1562064314698" duration="2170000" />
-      <workItem from="1562114719701" duration="693000" />
+      <workItem from="1562114719701" duration="5613000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1562065389267</created>
@@ -254,15 +263,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562065389267</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1562115678909</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562115678909</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30163000" />
+    <option name="totallyTimeSpent" value="35083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25067025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -273,7 +288,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -303,7 +318,8 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="第一次" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/cn/demo01/Person.java" />
@@ -472,8 +488,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/demo05/demo01Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="266">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/demo05/demo02MathPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritPolymorphic/demo01/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritPolymorphic/demo01/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritPolymorphic/demo01/Assistant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InheritPolymorphic/demo01/demo01Extends.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>
